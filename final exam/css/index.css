@@ -1,0 +1,117 @@
+ body {
+     width: 1366px;
+     height: 2693px;
+     background: #FFEED9;
+ }
+
+ .sodo {
+     color: #403930;
+
+     font-family: "Work Sans";
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     display: flex;
+     padding: 12px 24px;
+     justify-content: center;
+     font-family: "Work Sans";
+     gap: 10px;
+     border-radius: 10px;
+     background: #FFDDBF;
+
+
+ }
+
+ .duv {
+     color: #403930;
+
+     font-family: Eczar;
+     font-size: 64px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 125%;
+     /* 80px */
+     letter-spacing: 1.28px;
+     gap: 40px;
+     padding: 30px 60px 30px 60px;
+ }
+
+ a {
+     color: #594F43;
+
+     font-family: "Work Sans";
+     font-size: 20px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 150%;
+     /* 30px */
+     display: inline-flex;
+     align-items: flex-start;
+     gap: 32px;
+ }
+
+ .sod {
+     color: #594F43;
+
+     font-family: "Work Sans";
+     font-size: 20px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 150%;
+     /* 30px */
+ }
+
+ .beegii {
+     width: 524px;
+     height: 660px;
+     flex-shrink: 0;
+     background: url(<path-to-image>) #FFEED9 50% / cover no-repeat;
+
+
+
+ }
+
+ .nus {
+     color: #F3F2FF;
+
+     font-family: "Work Sans";
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 150%;
+     /* 36px */
+     display: flex;
+     width: 270px;
+     padding: 24px 40px;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+     border-radius: 16px;
+     background: #4E5E80;
+ }
+
+ .hun {
+     display: flex;
+     width: 269px;
+     padding: 24px 40px;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+     border-radius: 16px;
+     border: 4px #4D5566;
+     color: #4D5566;
+
+     font-family: "Work Sans";
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 150%;
+     /* 36px */
+ }
+
+ .nav a {
+     gap: 32px;
+     padding: 10px 20px 10px 20px;
+ }
